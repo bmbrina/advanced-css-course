@@ -700,7 +700,8 @@ body {
     @media (max-width: 56.25em) {
       .footer__copyright {
         width: 100%;
-        float: none; } }
+        float: none;
+        text-align: center; } }
 
 .row {
   max-width: 114rem;
